@@ -157,7 +157,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         int orientation = exif.getAttributeInt(ExifInterface.TAG_ORIENTATION, ExifInterface.ORIENTATION_NORMAL);
-        Matrix matrix = new Matrix(); // Matriz permite rotacionar a foto.
+        Matrix matrix = new Matrix(); // Matrix permite rotacionar a foto.
         switch (orientation) {
             case ExifInterface.ORIENTATION_ROTATE_90:
                 matrix.postRotate(90);
