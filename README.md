@@ -43,12 +43,6 @@ Exercício aplicado em sala de aula, usado como prática guiada com os alunos.
 2. Abra a pasta no **Android Studio** e aguarde a sincronização do Gradle.
 3. Execute em um emulador ou dispositivo físico com Android compatível com a API 28 ou superior.
 
-## Veja também
-
-Outros repositórios de aula com o mesmo tema:
-
-- [AppCameraAnima](https://github.com/fabcurvello/AppCameraAnima)
-
 ## Autor
 
 **Fabricio Curvello**: professor de desenvolvimento de software no SENAI-RJ (desde 1997) e em faculdades do grupo Ânima Educação (IBMR e UNA).
